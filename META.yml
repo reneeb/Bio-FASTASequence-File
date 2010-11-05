@@ -1,0 +1,23 @@
+---
+name:         Bio-FASTASequence-File
+version:      0.05
+author:
+  - 'Renee Baecker <module@renee-baecker.de>'
+abstract: "Perl extension for Bio::FASTASequence"
+license: perl
+requires:
+    Bio::FASTASequence:            0.04
+build_requires:
+  Carp: 0
+  Test::CheckManifest: 1
+  Test::More: 0
+generated_by: ExtUtils::MakeMaker version 6.30
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.2.html
+  version: 1.2
+provides:
+  Class::Superclasses:
+    file: lib/Bio/FASTASequence/File.pm
+    version: 0.05
+resources:
+  license: http://dev.perl.org/licenses/

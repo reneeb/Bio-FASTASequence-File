@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/Bio-FASTASequence-File.t
+t/97_pod.t
+t/98_pod_coverage.t
+t/99_check_manifest.t
+lib/Bio/FASTASequence/File.pm
+META.yml                                 Module meta-data (added by MakeMaker)
